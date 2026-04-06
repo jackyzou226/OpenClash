@@ -1,9 +1,5 @@
 # MyGoogle.list   （这是清单文件）
 
-# 引入 ACL4SSR 的 GoogleCN 清单（只是包含它的内容）
-# 注意：这里不能直接写 RULE-SET，因为 list 文件只允许纯规则行
-# 所以实际做法是把内容合并，或者在 rule-providers 里分别引用
-
 # 下面直接写你自己的规则（清单格式）
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gstatic-cn.com
