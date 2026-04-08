@@ -1,5 +1,0 @@
-# MyGoogle.list   （这是清单文件）
-
-# 下面直接写你自己的规则（清单格式）
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,gstatic-cn.com
