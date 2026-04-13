@@ -1,0 +1,20 @@
+# === X / Twitter 完整分流规则 ===
+DOMAIN-SUFFIX,x.com,Proxy
+DOMAIN-SUFFIX,twitter.com,Proxy
+DOMAIN-SUFFIX,t.co,Proxy
+DOMAIN-SUFFIX,twimg.com,Proxy
+DOMAIN-SUFFIX,abs.twimg.com,Proxy
+DOMAIN-SUFFIX,pbs.twimg.com,Proxy
+DOMAIN-SUFFIX,video.twimg.com,Proxy
+DOMAIN-SUFFIX,ximg.com,Proxy
+DOMAIN-SUFFIX,twtr.in,Proxy
+DOMAIN-SUFFIX,twttr.com,Proxy
+DOMAIN-SUFFIX,grok.com,Proxy
+DOMAIN-SUFFIX,x.ai,Proxy
+DOMAIN-SUFFIX,api.x.ai,Proxy
+DOMAIN-SUFFIX,console.x.ai,Proxy
+DOMAIN-SUFFIX,docs.x.ai,Proxy
+DOMAIN-SUFFIX,grok.x.com,Proxy
+DOMAIN-SUFFIX,periscope.tv,Proxy
+DOMAIN-SUFFIX,pscp.tv,Proxy
+DOMAIN-SUFFIX,tweetdeck.com,Proxy
