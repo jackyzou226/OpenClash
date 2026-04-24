@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,video.twimg.com
 DOMAIN-SUFFIX,ximg.com
 DOMAIN-SUFFIX,twtr.in
 DOMAIN-SUFFIX,twttr.com
-DOMAIN-SUFFIX,grok.com
+# DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,api.x.ai
 DOMAIN-SUFFIX,console.x.ai
