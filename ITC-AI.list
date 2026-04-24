@@ -8,4 +8,4 @@ DOMAIN-SUFFIX,docs.x.ai
 DOMAIN-SUFFIX,grok.x.com
 # gemini
 DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,gemini.gstatic.com
+# DOMAIN-SUFFIX,gemini.gstatic.com
